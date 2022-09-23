@@ -1,0 +1,4 @@
+https://www.cypress.io/
+https://chrome.google.com/webstore/detail/selenium-ide/mooikfkahbdckldjjndioackbalphokd/related
+https://specflow.org/
+https://nightwatchjs.org/
